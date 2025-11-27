@@ -1,4 +1,5 @@
-import { Article } from "./Article.js";
+import { Article } from "../models/Article.js";
+
 
 export class ArticleService {
   constructor() {
